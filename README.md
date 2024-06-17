@@ -7,12 +7,12 @@ Welcome to the **SOLID** Principles repository 🤟 This repository is dedicated
 # Table of contents
 
 - [Introduction](#introduction)
-- [Principles](#principles-overview)
-  - [Single Responsibility Principles](#single-responsibility-principle-srp)
-  - [Open/Close Principle](#open/close-principle-ocp)
-  - [Liskov Substitution Principles](#liskov-substitution-principle-lsp)
-  - [Interface Segregation Principles](#interface-segregation-principle-isp)
-  - [Dependency Inversion Principles](#dependency-inversion-principle-dip)
+- [Principles Overview](#principles-overview)
+  - [Single Responsibility Principles](#single-responsibility-principle)
+  - [Open/Close Principle](#open/close-principle)
+  - [Liskov Substitution Principles](#liskov-substitution-principle)
+  - [Interface Segregation Principles](#interface-segregation-principle)
+  - [Dependency Inversion Principles](#dependency-inversion-principle)
 - [Real-World Examples](#real-world-examples)
 - [Resources](#resources)
 - [Contributing](#contributing)
