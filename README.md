@@ -16,10 +16,10 @@ Welcome to the **SOLID** Principles repository 🤟 This repository is dedicated
 - [Real-World Examples](#real-world-examples)
 - [Resources](#resources)
 - [Contributing](#contributing)
-<!-- - [License](@license)-->
+- [License](@license)
 
 ## Introduction
-The **SOLID** principles are a set of five design principles intended to make software designs more understandable, flexible, and maintainable. The principles were introduced by [_Robert C. Martin_](https://en.wikipedia.org/wiki/Robert_C._Martin), also known as Uncle Bob, and have since become a fundamental part of [_object-oriented design_](https://www.educative.io/blog/object-oriented-programming).
+The **SOLID** principles are a set of five design principles intended to make software designs more understandable, flexible, and maintainable. The principles were introduced by [_Robert C. Martin_](https://en.wikipedia.org/wiki/Robert_C._Martin "Robert C. Martin"), also known as Uncle Bob, and have since become a fundamental part of [_object-oriented design_](https://www.educative.io/blog/object-oriented-programming "Object-oriented desing").
 
 ## Principles Overview
 
@@ -60,11 +60,11 @@ Now, you can go and see the code which I write down at this repo.Every dll is as
 
 Here are some recomended resources to learn more about solid principles:
 
-[SOLID: The First 5 Principles of Object Oriented Design](https://www.digitalocean.com/community/conceptual-articles/s-o-l-i-d-the-first-five-principles-of-object-oriented-design)
+[SOLID: The First 5 Principles of Object Oriented Design](https://www.digitalocean.com/community/conceptual-articles/s-o-l-i-d-the-first-five-principles-of-object-oriented-design "Solid Article")
 
-[The SOLID Principles of Object-Oriented Programming Explained in Plain English](https://www.freecodecamp.org/news/solid-principles-explained-in-plain-english/)
+[The SOLID Principles of Object-Oriented Programming Explained in Plain English](https://www.freecodecamp.org/news/solid-principles-explained-in-plain-english/ "Solid Article")
 
-[SOLID Principles in Programming: Understand With Real Life Examples](https://www.geeksforgeeks.org/solid-principle-in-programming-understand-with-real-life-examples/)
+[SOLID Principles in Programming: Understand With Real Life Examples](https://www.geeksforgeeks.org/solid-principle-in-programming-understand-with-real-life-examples/ "Solid Article")
 
 ## Contributing
 
@@ -79,8 +79,7 @@ I wellcom contributions from the community! If you have another examples or reso
 5. Push the branch.(git push origin example/newExample)
 6. Open a pull request.
 
-<!-- 
 ## License
 
 This repository is licensed under the MIT License. See the LICENSE file for more information.
--->
+
