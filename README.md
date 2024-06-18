@@ -16,7 +16,7 @@ Welcome to the **SOLID** Principles repository 🤟 This repository is dedicated
 - [Real-World Examples](#real-world-examples)
 - [Resources](#resources)
 - [Contributing](#contributing)
-- [License](@license)
+- [License](#license)
 
 ## Introduction
 The **SOLID** principles are a set of five design principles intended to make software designs more understandable, flexible, and maintainable. The principles were introduced by [_Robert C. Martin_](https://en.wikipedia.org/wiki/Robert_C._Martin "Robert C. Martin"), also known as Uncle Bob, and have since become a fundamental part of [_object-oriented design_](https://www.educative.io/blog/object-oriented-programming "Object-oriented desing").
