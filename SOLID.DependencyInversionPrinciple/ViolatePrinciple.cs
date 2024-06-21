@@ -2,6 +2,8 @@
 
 public class ViolatePrinciple
 {
+    public class Database { }
+
     public class UserController
     {
         private Database database;
