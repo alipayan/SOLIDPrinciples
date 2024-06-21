@@ -23,25 +23,25 @@ The **SOLID** principles are a set of five design principles intended to make so
 
 ## Principles Overview
 
-### Single Responsibility Principle ![Static Badge](https://img.shields.io/badge/(SRP)-blue?style=flat)
+### [Single Responsibility Principle](SOLID.SingleResponsibilityPrinciple) ![Static Badge](https://img.shields.io/badge/(SRP)-blue?style=flat)
 
 Goal of this principle is that a class should only have one repsonsibility, only single reason to change.
 You may think why this principle is improtant? By apply this principle in our code, we can improve the ability of team working and reduce conflices.
 
-### Open/Close Principle ![Static Badge](https://img.shields.io/badge/(OCP)-blue?style=flat)
+### [Open/Close Principle](SOLID.OpenClosedPrinciple) ![Static Badge](https://img.shields.io/badge/(OCP)-blue?style=flat)
 
 A class or method, should be open for extension and close to modification.
 That mean, we can always come back and add new functionality, but never change the previous code base.Why this rule is important? When we modify a code base which is stable and test by end users, we take the risk of making new bugs!By help of interfaces and abstract class we can achive to this goal.
 
-### Liskov Substitution Principle ![Static Badge](https://img.shields.io/badge/(LSP)-blue?style=flat)
+### [Liskov Substitution Principle](SOLID.LiskovSubstitutionPrinciple) ![Static Badge](https://img.shields.io/badge/(LSP)-blue?style=flat)
 
 Sub classes should be sustitutable for their base classes without facing to abnormal behavior of thier base classes.
 
-### Interface Segregation Principle ![Static Badge](https://img.shields.io/badge/(ISP)-blue?style=flat)
+### [Interface Segregation Principle](SOLID.InterfaceSegregationPrinciple) ![Static Badge](https://img.shields.io/badge/(ISP)-blue?style=flat)
 
 In simple word, keep the interfaces seprated.Our classes should not force to implement interface contracts which is irrelevent to them.
 
-### Dependency Inversion Principle ![Static Badge](https://img.shields.io/badge/(DIP)-blue?style=flat)
+### [Dependency Inversion Principle](SOLID.DependencyInversionPrinciple) ![Static Badge](https://img.shields.io/badge/(DIP)-blue?style=flat)
 
 Main reason which DIP introduce is to reduce classes from it's dependencies. Instead, we depend on contracts and abstraction.By applying DIP in our code, our class will focus on his own responsibility.
 
